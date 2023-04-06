@@ -1,0 +1,15 @@
+C:\Users\Sass\source\repos\LING1\LING1\bin\Debug\net6.0\LING1.exe
+C:\Users\Sass\source\repos\LING1\LING1\bin\Debug\net6.0\LING1.deps.json
+C:\Users\Sass\source\repos\LING1\LING1\bin\Debug\net6.0\LING1.runtimeconfig.json
+C:\Users\Sass\source\repos\LING1\LING1\bin\Debug\net6.0\LING1.dll
+C:\Users\Sass\source\repos\LING1\LING1\bin\Debug\net6.0\LING1.pdb
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.csproj.AssemblyReference.cache
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.AssemblyInfoInputs.cache
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.AssemblyInfo.cs
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.csproj.CoreCompileInputs.cache
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.dll
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\refint\LING1.dll
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.pdb
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\LING1.genruntimeconfig.cache
+C:\Users\Sass\source\repos\LING1\LING1\obj\Debug\net6.0\ref\LING1.dll
